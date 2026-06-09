@@ -1,15 +1,3 @@
-# Customer Success Plan
-
-**Customer:** [Customer Name]
-**CSM:** [CSM Name]
-**Account Executive:** [AE Name]
-**Plan Created:** [Date]
-**Last Updated:** [Date]
-**Review Cadence:** [Monthly / Quarterly]
-
----
-
-## 1. Customer Overview
 
 | Field | Details |
 |-------|---------|
